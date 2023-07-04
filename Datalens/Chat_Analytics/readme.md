@@ -1,8 +1,10 @@
-Дашборд в Datalens для анализа активности телеграм-чата.
+**Дашборд в Datalens для анализа активности телеграм-чата.**
 
-Данный проект был реализован на основе статей [раз](https://cloud.yandex.ru/blog/posts/2023/04/telegram-chat-analytics?utm_source=telegram&utm_medium=post_&utm_campaign=revealthedata) и [два](https://skillbox.ru/media/code/parsim-dannye-v-telegram-na-python-chast-1/).
+Проект был реализован на основе статей [раз](https://cloud.yandex.ru/blog/posts/2023/04/telegram-chat-analytics?utm_source=telegram&utm_medium=post_&utm_campaign=revealthedata) и [два](https://skillbox.ru/media/code/parsim-dannye-v-telegram-na-python-chast-1/).
 
-На данном этапе реализовн дашборд, подключённый к статичному csv файлу. Файл собран с помощью python скрипта.
+На данном этапе реализовн дашборд, подключённый к статичному csv файлу. Файл собран с помощью [python-скрипта](https://github.com/alenakot/portfolio_BI/blob/main/Datalens/Chat_Analytics/Scrapper.py).
+
+Ссылка на готовый дашборд [тут](https://datalens.yandex.ru/yiikuv5tgvx8o-chat-analytics)
 
 Вопросы, на которые отвечает дашборд:
 
